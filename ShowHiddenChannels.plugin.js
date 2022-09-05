@@ -4,8 +4,8 @@
  * @authorId 278543574059057154
  * @version 3.2.5
  * @description Displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible)
- * @source https://github.com/thunderstorm010/BetterDiscordAddons/tree/master/Plugins/ShowHiddenChannels/
- * @updateUrl https://github.com/thunderstorm010/BetterDiscordAddons/tree/master/Plugins/ShowHiddenChannels/ShowHiddenChannels.plugin.js
+ * @source https://github.com/thunderstorm010/ShowHiddenChannels/tree/main/
+ * @updateUrl https://raw.githubusercontent.com/thunderstorm010/ShowHiddenChannels/main/ShowHiddenChannels.plugin.js
  */
 
 module.exports = (_ => {
